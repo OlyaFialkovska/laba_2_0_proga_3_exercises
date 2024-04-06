@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1712428381 source:d:\univer\programming\voitenko_proga_labka_2_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+
